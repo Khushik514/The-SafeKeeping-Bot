@@ -21,10 +21,10 @@ With this discord bot, moderators can ensure that no message sent hampers the pe
 
 ## How we built it
 We have made use of the following technologies -  
-**Python -**The entire code is in python.  
-**Perspective API -**For analyzing the messages for inappropriate behaviour.  
-**Discord API -**For creating the discord bot.  
-**Google Cloud Platform -**Perspective API is enabled using GCP.  
+**Python -** The entire code is in python.  
+**Perspective API -** For analyzing the messages for inappropriate behaviour.  
+**Discord API -** For creating the discord bot.  
+**Google Cloud Platform -** Perspective API is enabled using GCP.  
 
 ## Challenges we ran into
 The ideation in itself was a challenge. We wanted to build something that could help the community and curb the online harassment, toxicity and bullying. We also faced challenges while trying to fetch and analyze each message and to maintain the warnings log.
